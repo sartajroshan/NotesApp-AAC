@@ -13,7 +13,6 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
-
 import com.mohak.android.notesaacapp.UI.NotesRepository;
 import com.mohak.android.notesaacapp.UI.NotesViewModel;
 import com.mohak.android.notesaacapp.data.NotesEntity;
