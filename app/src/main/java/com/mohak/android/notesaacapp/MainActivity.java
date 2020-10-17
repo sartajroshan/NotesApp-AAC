@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Logging code
         Log.e("MainActivity", "onCreate:");
 
         addNoteFab = findViewById(R.id.add_note_fab);
